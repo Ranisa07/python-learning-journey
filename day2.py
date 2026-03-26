@@ -1,4 +1,3 @@
-'''
 # Arithmetic Operator
 a = 28
 b = 12
@@ -103,7 +102,7 @@ def postive_negative():
     else:
         print(n, " is a negative number")
 postive_negative()
-'''
+
 # Student result checker
 
 def pass_or_fail():
