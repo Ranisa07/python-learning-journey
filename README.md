@@ -1,24 +1,47 @@
-<<<<<<< HEAD
-# Python Day 1 Practice
+# Python Practice Journey 🚀
 
 ## 📌 Overview
-This repository contains basic Python programs created as part of my Data Science learning journey.
+This repository contains my daily Python practice as I learn programming for Data Science and Machine Learning.
 
-## 🛠️ Topics Covered
+---
+
+## 📅 Day-wise Progress
+
+### ✅ Day 1
 - Variables
 - Data Types
 - Input/Output
+- Basic Programs
 
-## 💻 Programs
-- Hello World
-- User Input Program
-- Addition of Two Numbers
-- Square of a Number
+### ✅ Day 2
+- Operators (Arithmetic, Comparison, Logical)
+- If-Else Conditions
+- Logic Building Programs
 
-## 🚀 Learning Goal
-To build a strong foundation in Python for Data Science and Machine Learning.
+### 🔄 Day 3 (In Progress)
+- Loops (for, while)
+- Practice Problems
+
+---
+
+## 💻 Files in this Repository
+- day1.py → Basic Python programs
+- day2.py → Conditional statements and logic programs
+- day3.py → Loop-based programs (upcoming)
+
+---
+
+## 🎯 Learning Goal
+To build a strong foundation in Python and move towards Data Science, Machine Learning, and AI.
+
+---
+
+## 🛠️ Tools & Technologies
+- Python
+- VS Code
+
+---
 
 ## 👩‍💻 Author
 Ranisa Rout
-=======
 
