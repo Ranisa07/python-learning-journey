@@ -1,7 +1,7 @@
 # Python Learning Journey 🚀
 
 ## 📌 Overview
-This repository contains my daily Python practice as I learn programming for Data Science and Machine Learning.
+This repository contains my daily Python practice as I build a strong foundation for Data Science, Machine Learning, and AI.
 
 ---
 
@@ -28,6 +28,12 @@ This repository contains my daily Python practice as I learn programming for Dat
 - Pattern Problems
 - Logic Building
 
+### ✅ Day 5
+- Functions
+- Parameters & Arguments
+- Return Values
+- Function-based Programs
+
 ---
 
 ## 💻 Files in this Repository
@@ -35,11 +41,12 @@ This repository contains my daily Python practice as I learn programming for Dat
 - day2.py → Conditional statements and logic programs  
 - day3.py → Loop-based programs  
 - day4.py → Pattern programs  
+- day5.py → Function-based programs  
 
 ---
 
 ## 🎯 Learning Goal
-To build a strong foundation in Python and move towards Data Science, Machine Learning, and AI.
+To become a Data Scientist by mastering Python, Data Science, and Machine Learning.
 
 ---
 
