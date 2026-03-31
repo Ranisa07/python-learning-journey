@@ -42,7 +42,7 @@ b = float(input("Enter Decimal: "))  # Here input() method always takes input as
 # Check Even or Odd number
 def evenOrOdd():
     n = int(input("Enter number to check even or odd: "))
-    if x % 2 == 0:
+    if n % 2 == 0:
         print(n, "is a even number")
     else:
         print(n, "is a odd number")
