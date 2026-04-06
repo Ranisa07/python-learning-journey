@@ -32,6 +32,11 @@ This repository contains my daily Python practice as I build a strong foundation
 - String Operations (upper, lower, replace)
 - String-based Problems (reverse, palindrome, count)
 
+### ✅ Day 8
+- Dictionaries
+- Key-Value Operations
+- Dictionary Programs
+
 ---
 
 ## 💻 Files
@@ -42,6 +47,7 @@ This repository contains my daily Python practice as I build a strong foundation
 - day5.py → Functions  
 - day6.py → Lists  
 - day7.py → Strings  
+- day8.py → Dictionary
 
 ---
 
