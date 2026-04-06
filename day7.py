@@ -1,3 +1,4 @@
+# Python String
 '''
 - In Python, a string is a sequence of characters enclosed in quotes. It can include letters, numbers, symbols or spaces.
 - Since, Python has no separate character type, even a single character is treated as a string with length one.
