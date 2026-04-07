@@ -35,7 +35,8 @@ This repository contains my daily Python practice as I build a strong foundation
 ### ✅ Day 8
 - Dictionaries
 - Key-Value Operations
-- Dictionary Programs
+- Looping through dictionary
+- Dictionary-based Programs
 
 ---
 
