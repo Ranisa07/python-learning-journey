@@ -38,6 +38,13 @@ This repository contains my daily Python practice as I build a strong foundation
 - Looping through dictionary
 - Dictionary-based Programs
 
+### ✅ Day 9
+- Tuples (creation, indexing, immutability)
+- Sets (unique values, add/remove operations)
+- Set operations (union, intersection)
+- Advanced String Problems (reverse, count, manipulation)
+- Hands-on practice with multiple programs
+
 ---
 
 ## 💻 Files
@@ -49,6 +56,7 @@ This repository contains my daily Python practice as I build a strong foundation
 - day6.py → Lists  
 - day7.py → Strings  
 - day8.py → Dictionary
+- day9.py → Tuple
 
 ---
 
