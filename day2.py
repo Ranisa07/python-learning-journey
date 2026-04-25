@@ -39,7 +39,8 @@ print(p>>q)
 a = int(input("Enter Number: "))
 b = float(input("Enter Decimal: "))  # Here input() method always takes input as string, So we need to type casting it..
 
-# Check Even or Odd number
+# Prtactice Programs
+# 1. Check Even or Odd number
 def evenOrOdd():
     n = int(input("Enter number to check even or odd: "))
     if n % 2 == 0:
@@ -48,7 +49,7 @@ def evenOrOdd():
         print(n, "is a odd number")
 evenOrOdd()
 
-# Find Largest of two numbers
+# 2. Find Largest of two numbers
 def largestNumber():
     m = int(input("Enter 1st Number: "))
     n = int(input("Enter 2nd number: "))
@@ -58,7 +59,7 @@ def largestNumber():
         print(n," is the largest number.")
 largestNumber()
 
-# Find the largest of 3 numbers
+# 3. Find the largest of 3 numbers
 def largeNum3():
     n1 = int(input("Enter 1st number: "))
     n2 = int(input("Enter 2nd number: "))
@@ -71,7 +72,7 @@ def largeNum3():
         print(n3, " is the largest number..")
 largeNum3()
 
-# Simple Calculator
+# 4. Simple Calculator
 def calculator():
     a = float(input("Enter 1st number: "))
     b = float(input("Enter 2nd number: "))
@@ -94,7 +95,7 @@ def calculator():
             print("Invalid numbers")
 calculator()
 
-# Check Number Positive or Negative
+# 5. Check Number Positive or Negative
 def postive_negative():
     n = int(input("Enter the number: "))
     if n >= 0:
@@ -103,7 +104,7 @@ def postive_negative():
         print(n, " is a negative number")
 postive_negative()
 
-# Student result checker
+# 6. Student result checker
 
 def pass_or_fail():
     marks = int(input("Enter the marks: "))
