@@ -1,9 +1,49 @@
 # Python Learning Journey 🚀
 
 ## 📌 Overview
-This repository contains my daily Python practice as I build a strong foundation for Data Science, Machine Learning, and AI.
+
+Welcome to my Python Learning Journey!
+
+This repository documents my journey of learning Python from beginner to advanced level with a focus on:
+
+- Python Fundamentals
+- Object-Oriented Programming (OOP)
+- Exception Handling
+- File Handling
+- Data Structures
+- Problem Solving
+- Placement Interview Preparation
+
+The goal of this repository is to strengthen my Python programming skills and prepare for Software Developer, Backend Developer, and QA Automation interviews.
 
 ---
+## 🎯 Learning Goals
+
+- Learn Python Fundamentals
+- Master OOP Concepts
+- Build Strong Problem-Solving Skills
+- Practice Python Interview Questions
+- Prepare for Interviews
+
+## 📚 Topics Covered
+
+- Variables & Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+- Strings
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+- Arrays
+- OOP
+- Exception Handling
+- File Handling
+- Modules
+- Decorators
+- Generators
 
 ## 📅 Day-wise Progress
 
@@ -56,9 +96,14 @@ This repository contains my daily Python practice as I build a strong foundation
 - day6.py → Lists  
 - day7.py → Strings  
 - day8.py → Dictionary
-- day9.py → Tuple,Set
+- day9.py → Tuple
 
 ---
+## 📖 Learning Resources
+- GeeksforGeeks
+- Python Official Documentation
+- LeetCode
+- HackerRank
 
 ## 🎯 Goal
 To become a Data Scientist by mastering Python, Data Science, and Machine Learning.
@@ -73,3 +118,5 @@ To become a Data Scientist by mastering Python, Data Science, and Machine Learni
 
 ## 👩‍💻 Author
 Ranisa Rout
+
+#### ⭐ If you find this repository helpful, feel free to explore and share your feedback.
